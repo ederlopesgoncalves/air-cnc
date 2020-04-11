@@ -1,7 +1,7 @@
 <h4 align="center">
     <img alt="Air CNC" src="mobile/src/assets/logo@3x.png" width="300px" />
     <br/>
-    <b>Encontre e de match com outros DEVs!</b> 🦸‍
+    <b>Alugue seu espaço e melhore a interação de seus DEVs!</b> 🦸‍
 </h4>
 <h2 align="center">
     <br/>
